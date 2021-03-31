@@ -1,11 +1,8 @@
 ### Hi there 👋 
 - 🔭 I’m currently working for [HarukaEdu](https://harukaedu.com/) as QA Engineer
+- 🌱 I’m currently learning TestNG, Selenium, Cucumber, and Maven
 - 💬 Ask me about tech, testing, I mean you can ask anything :D
-
-## Tech Stack
-
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=red)
-![](https://img.shields.io/badge/-Groovy-informational?style=flat&logo=groovy&logoColor=white&color=blue)
+- 📫 How to reach me: @scarecrowthings on Twitter
 
 ## Tools Test
 
