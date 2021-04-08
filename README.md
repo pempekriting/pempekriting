@@ -2,7 +2,6 @@
 - 🔭 I’m currently working for [HarukaEdu](https://harukaedu.com/) as QA Engineer
 - 🌱 I’m currently learning TestNG, Selenium, Cucumber, and Maven
 - 💬 Ask me about tech, testing, I mean you can ask anything :D
-- 📫 How to reach me: @scarecrowthings on Twitter
 
 ## Tools Test
 
