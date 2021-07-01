@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🔭 I’m currently working for [HarukaEdu](https://harukaedu.com/) as QA Engineer
+- 🔭 I’m currently working for [Advotics](https://www.advotics.com/en/) as QA Automation Engineer
 - 🌱 I’m currently learning TestNG, Selenium, Cucumber, and Maven
 - 💬 Ask me about tech, testing, I mean you can ask anything :D
 
