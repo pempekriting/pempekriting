@@ -1,7 +1,8 @@
 ### Hi there 👋 
 - 🔭 I’m currently working for [Advotics](https://www.advotics.com/en/) as QA Automation Engineer
-- 🌱 I’m currently learning TestNG, Selenium, Cucumber, and Maven
+- 🌱 I’m currently learning all about testing
 - 💬 Ask me about tech, testing, I mean you can ask anything :D
+- 📫 You can reach me on email at kgs.azzam@gmail.com
 
 ## Tools Test
 
