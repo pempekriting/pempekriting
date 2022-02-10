@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/-Katalon-informational?style=flat&logo=katalon-studio&logoColor=white&color=success)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-Appium-informational?style=flat&logo=appium&logoColor=white&color=purple)
-![](https://img.shields.io/badge/-Gradle-informational?style=flat&logo=kgradle&logoColor=white&color=grey)
+![](https://img.shields.io/badge/-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=blue)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpempekriting%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
