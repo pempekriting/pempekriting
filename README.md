@@ -19,6 +19,8 @@
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=dart&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=dart&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/-Shell-informational?style=flat&logo=shell&logoColor=white&color=black)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpempekriting%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
