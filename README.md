@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🔭 I’m currently working for [Advotics](https://www.advotics.com/en/) as QA Automation Engineer
+- 🔭 I’m currently working for [Kuncie](https://www.kuncie.com/) as Software Development Engineer - Test
 - 🌱 I’m currently learning all about testing
 - 💬 Ask me about tech, testing, I mean you can ask anything :D
 - 📫 You can reach me on email at kgs.azzam@gmail.com
@@ -16,6 +16,9 @@
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-Appium-informational?style=flat&logo=appium&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=dart&logoColor=white&color=blue)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpempekriting%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
