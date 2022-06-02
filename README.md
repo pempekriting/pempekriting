@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=dart&logoColor=white&color=blue)
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=dart&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/-Shell-informational?style=flat&logo=shell&logoColor=white&color=black)
 
 
