@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kgs. Azzam Nizar</h1>
 
-- 🔭 I’m currently working for [Kuncie](https://www.kuncie.com/) as Software Development Engineer - Test
+- 🔭 I’m currently working for [ProSpace](https://prospace.io/) as QA Engineer
 - 🌱 I’m currently learning all about testing
 - 💬 Ask me about tech, testing, I mean you can ask anything :D
 - 📫 You can reach me on email at kgs.azzam@gmail.com
